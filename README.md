@@ -6,3 +6,11 @@
 * Input
 * Print
 ---
+## Dia 2 Calculador
+* Variables
+* Int y Float
+* Conversion de datos
+* Formatear cadenas
+* Operadores
+* Round
+---
