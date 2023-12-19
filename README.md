@@ -14,3 +14,14 @@
 * Operadores
 * Round
 ---
+## Dia 3 Analizador de texto
+* Index
+* Sub-Strings
+* Metodos
+* Propiedades
+* Listas
+* Diccionarios
+* Tuplas
+* Sets
+* Booleanos
+---
