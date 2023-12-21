@@ -1,1 +1,1 @@
-print('El nombre de tu cerveza es ' + input('Que color tiene?: ') + " " + input('Que gusto tiene?: '))
+print('El nombre de tu cerveza es ' + input('Que color tiene?: ') + " " + input('Que gusto tiene?: '))  #Pregunta un color y gusto para crear el nombre

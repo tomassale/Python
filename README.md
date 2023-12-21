@@ -36,3 +36,11 @@
 * Min y Max
 * Random
 ---
+## Dia 5 Juego ahorcado
+* Metodos y documentaciones
+* Funciones
+* Return
+* Funciones dinamicas
+* Interaccion entre funciones
+* *args y **kwargs
+---
