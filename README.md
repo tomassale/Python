@@ -25,3 +25,14 @@
 * Sets
 * Booleanos
 ---
+## Dia 4 Juego numeros
+* Operadores comparacion
+* Operadores logicos
+* Control de flujo
+* Loops (While, For)
+* Range
+* Enumerador
+* Zip
+* Min y Max
+* Random
+---
