@@ -44,3 +44,10 @@
 * Interaccion entre funciones
 * *args y **kwargs
 ---
+## Dia 6 Recetario
+* CRUD archivos
+* Manejo de directorios
+* Pathlib
+* Path
+* Limpiar consola
+---
