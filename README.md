@@ -51,3 +51,24 @@
 * Path
 * Limpiar consola
 ---
+## Dia 7 Cuenta bancaria
+* Clases
+* Atributos
+* Metodos
+* Metodos especiales
+* Herencia
+* Herencia Extendida
+* Polimorfismo
+---
+## Dia 8 Turnos
+* Modulos y Paquetes
+* Manejo de errores
+* Pylint
+* Unittest
+* Decoradores
+* Generadores
+---
+## Tomás Javier Sale
+* Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
+* E-mail: tomassale@hotmail.com
+* Teléfono: +54 15 5963-8765
