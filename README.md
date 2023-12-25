@@ -68,6 +68,14 @@
 * Decoradores
 * Generadores
 ---
+## Dia 9 Buscador en serie
+* Collections
+* OS y Shutil
+* Datetime
+* Test time
+* Math
+* RE
+* Compresion y descompresion de archivos
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
 * E-mail: tomassale@hotmail.com
