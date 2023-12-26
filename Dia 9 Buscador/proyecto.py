@@ -35,4 +35,6 @@ def buscador_serie(lib):
         cantidad_obj += 1
   print(f'\nNumeros encontrados: {cantidad_obj} segundos')
 
-ejecucion()
+
+if __name__ == '__main__':
+  ejecucion()

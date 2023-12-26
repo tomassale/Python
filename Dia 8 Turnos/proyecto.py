@@ -27,4 +27,6 @@ def sacar_turno():
   time.sleep(3)
   return sacar_turno()
 
-sacar_turno()
+
+if __name__ == '__main__':
+  sacar_turno()

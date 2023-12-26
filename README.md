@@ -76,6 +76,14 @@
 * Math
 * RE
 * Compresion y descompresion de archivos
+---
+## Dia 10 Galaga
+* Entorno de juego
+* Titulo, icono y juego
+* Funciones de movimiento
+* Calculo de distancias
+* Ejecutable
+---
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
 * E-mail: tomassale@hotmail.com
