@@ -84,6 +84,11 @@
 * Calculo de distancias
 * Ejecutable
 ---
+## Dia 11 WebScraping
+Principios
+Extraccion de informacion
+Condiciones de extraccion
+---
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
 * E-mail: tomassale@hotmail.com
