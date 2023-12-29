@@ -93,7 +93,12 @@
 * Tkinter
 * Aplicacion de escritorio
 * Calculadora
-*Elementos
+* Elementos
+---
+## Dia 13 Asistente de voz
+* Texto a voz
+* Comandos
+* Uso por function
 ---
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
