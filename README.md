@@ -100,6 +100,12 @@
 * Comandos
 * Uso por function
 ---
+## Dia 14 Asistencia
+* Reconocimiento facial
+* Comparacion de caras
+* Base de datos
+* Registro de asistencia
+---
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
 * E-mail: tomassale@hotmail.com
