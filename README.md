@@ -106,6 +106,23 @@
 * Base de datos
 * Registro de asistencia
 ---
+## Dia 15 IA
+* Google Colab
+* Numpy
+* Pandas
+* Matplotlib
+* Machine learning
+---
+## Dia 16 To-do
+* Django
+* SQLite
+* Entornos virtuales
+* Vistas
+* Rutas
+* Modelos
+* Templates
+* Css
+---
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
 * E-mail: tomassale@hotmail.com
